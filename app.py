@@ -4,7 +4,6 @@ import pyttsx3
 import wikipedia
 import datetime
 import keyboard
-import os
 from pygame import mixer
 import subprocess as sub
 
